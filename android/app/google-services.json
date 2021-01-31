@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "406717518600",
+    "project_id": "nss-iith-app",
+    "storage_bucket": "nss-iith-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406717518600:android:8e8e7f32dedc247103d2bd",
+        "android_client_info": {
+          "package_name": "com.example.nss_iith"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406717518600-elbd4mdm6knkrnm22rmfs18uv5flp2to.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nss_iith",
+            "certificate_hash": "6ebd4c0ac40877b56de568290e47497eeb31c8a8"
+          }
+        },
+        {
+          "client_id": "406717518600-fs8c8b613002m815p8ihhfb5s1vvjdoj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG19-YYRrVWgAOHUmAPABLeUvWeL-Vl9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406717518600-fs8c8b613002m815p8ihhfb5s1vvjdoj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
