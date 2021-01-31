@@ -17,7 +17,7 @@ class NetworkUtils{
     return (result.data() == null) ? [] : result.data()["events"];
   }
 
-  static Future<void> saveEvents(List<Map> events) async {
+  static Future<void> saveEvents(List<dynamic> events) async {
     final user = AuthUtils.getUserDetails();
     await firestore.collection("user_records").doc(user.uid).set({"events" : events});
   }
